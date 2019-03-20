@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# I forgot where this scripts from.
+# Add following line to your .bashrc
+# source ~/.bash-powerline.sh
+
 ## Uncomment to disable git info
 #POWERLINE_GIT=0
 
